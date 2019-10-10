@@ -1,2 +1,2 @@
 # simple-vantajs
-Contoh Example 3D &amp; WebGL Background Animation dari Vanta.js
+Contoh Example 3D &amp; WebGL Background Animation dari Vanta.js dalam bahasa Indonesia
