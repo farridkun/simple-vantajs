@@ -65,7 +65,7 @@
 
 <body>
     <!-- Inisialisasi syntax ' el: "#inifog" ' sesuai dengan yang ada di line 19 -->
-    <div id="iniglobe"></div>
+    <div id="inidots"></div>
     <!-- Akhir Inisialisasi Div Id="inifog" -->
 
     <!-- Awal Script / Code Klean -->
