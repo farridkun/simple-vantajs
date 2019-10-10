@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>GLOBE | Farrid</title>
+    <title>FOG | Farrid</title>
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
     <!-- Styles -->

@@ -82,7 +82,7 @@
                 <a href="https://latihan-kun.herokuapp.com/">GLOBE</a>
                 <a href="https://latihan-kun.herokuapp.com/dots.php">DOTS</a>
                 <a href="https://latihan-kun.herokuapp.com/rings.php">RINGS</a>
-                <a href="https://latihan-kun.herokuapp.com/trunk.php">TRUNK</a>
+                <a href="#">TRUNK</a>
             </div>
 
             <br>

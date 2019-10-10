@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>GLOBE | Farrid</title>
+    <title>DOTS | Farrid</title>
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
     <!-- Styles -->
@@ -73,14 +73,14 @@
 
         <div class="content">
             <div class="title m-b-md">
-                GLOBE | Vanta.Js
+                DOTS | Vanta.Js
             </div>
 
             <div class="links">
                 <a href="https://latihan-kun.herokuapp.com/fog.php">FOG</a>
                 <a href="https://latihan-kun.herokuapp.com/bird.php">BIRDS</a>
                 <a href="https://latihan-kun.herokuapp.com/net.php">NET</a>
-                <a href="https://latihan-kun.herokuapp.com/dots.php">DOTS</a>
+                <a href="https://latihan-kun.herokuapp.com/">GLOBE</a>
                 <a href="https://latihan-kun.herokuapp.com/rings.php">RINGS</a>
                 <a href="#">TRUNK</a>
             </div>
@@ -97,10 +97,10 @@
 
     <!-- Script ini disimpan paling bawah atau diatas </body> -->
     <script src="js/three.r92.min.js"></script>
-    <script src="js/vanta.globe.min.js"></script>
+    <script src="js/vanta.dots.min.js"></script>
     <script>
-        VANTA.GLOBE({
-            el: "#iniglobe"
+        VANTA.DOTS({
+            el: "#inidots"
         })
     </script>
     <!-- Akhir dari Script Vanta.Js -->
