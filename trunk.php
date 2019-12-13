@@ -65,7 +65,7 @@
 
 <body>
     <!-- Inisialisasi syntax ' el: "#inifog" ' sesuai dengan yang ada di line 19 -->
-    <div id="iniglobe"></div>
+    <div id="initrunk"></div>
     <!-- Akhir Inisialisasi Div Id="inifog" -->
 
     <!-- Awal Script / Code Klean -->
@@ -73,7 +73,7 @@
 
         <div class="content">
             <div class="title m-b-md">
-                GLOBE | Vanta.Js
+                TRUNK | Vanta.Js
             </div>
 
             <div class="links">
@@ -96,11 +96,11 @@
     <!-- Akhir Script Klean -->
 
     <!-- Script ini disimpan paling bawah atau diatas </body> -->
-    <script src="js/three.r92.min.js"></script>
-    <script src="js/vanta.globe.min.js"></script>
+    <script src="js/p5.min.js"></script>
+    <script src="js/vanta.trunk.min.js"></script>
     <script>
         VANTA.GLOBE({
-            el: "#iniglobe"
+            el: "#initrunk"
         })
     </script>
     <!-- Akhir dari Script Vanta.Js -->
